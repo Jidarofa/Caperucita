@@ -7,3 +7,5 @@ tareas
 6- Agilizar pruebas de crossbrowsing
 7- Hablar con Oscar
 8- Hablar con Carol
+9- Otra tarea
+
