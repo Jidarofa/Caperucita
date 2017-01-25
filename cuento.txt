@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 cuento
  vamos a crera un nuevo commit vamos por mas
 
 Este es otro parrafo
+=======
+Descripcion:
+
+Cuento de una niña
+
+Parrafo:
+
+Llega a la casa de la abuela
+>>>>>>> imagenes
