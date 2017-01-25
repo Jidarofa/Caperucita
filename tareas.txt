@@ -1,1 +1,5 @@
 tareas
+1- hacer despliegue
+2- Hacer despliegue desde otro ambiente
+3- Despliegue ambiente stage
+4- Despliegue 4
