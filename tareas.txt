@@ -3,3 +3,7 @@ tareas
 2- Hacer despliegue desde otro ambiente
 3- Despliegue ambiente stage
 4- Despliegue 4
+5- Revisar nuevas tareas
+6- Agilizar pruebas de crossbrowsing
+7- Hablar con Oscar
+8- Hablar con Carol
